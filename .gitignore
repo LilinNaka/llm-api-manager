@@ -1,0 +1,11 @@
+# API keys and configs - DO NOT COMMIT
+llm_api_configs.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
