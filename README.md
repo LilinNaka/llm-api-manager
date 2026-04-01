@@ -15,7 +15,7 @@ LLM API 配置管理工具 —— 交互式管理多个 LLM 提供商的 API Key
 ### 1. 首次运行自动创建配置文件 `llm_api_configs.json`
 
 ```bash
-python 202604LLMAPIConfigs.py
+python llm_api_manager.py
 ```
 
 ### 2. 主菜单
